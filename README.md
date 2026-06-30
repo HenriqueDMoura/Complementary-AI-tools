@@ -1,8 +1,7 @@
-Ecossistema de IA para Aprendizagem e Pesquisa (2026)
+Ecossistema de IA para Aprendizagem e Pesquisa (2026).
 Este repositório reúne uma análise detalhada sobre o ecossistema de ferramentas de Inteligência Artificial voltadas para potencializar o aprendizado de estudantes e a produtividade de pesquisadores científicos no cenário de 2026. O conteúdo foca na transição de métodos tradicionais de estudo para fluxos de trabalho integrados e orientados por agentes autônomos.
 
-📋 Descrição do Conteúdo
-O material explora ferramentas que automatizam a triagem de literatura, extração de dados científicos, criação de materiais de memorização ativa (como flashcards e quizzes) e síntese de conhecimentos complexos.
+📋 Descrição do Conteúdo: O material explora ferramentas que automatizam a triagem de literatura, extração de dados científicos, criação de materiais de memorização ativa (como flashcards e quizzes) e síntese de conhecimentos complexos.
 
 🛠️ Categorias de Ferramentas Analisadas com base nas fontes fornecidas, as ferramentas podem ser agrupadas nas seguintes categorias:
 
